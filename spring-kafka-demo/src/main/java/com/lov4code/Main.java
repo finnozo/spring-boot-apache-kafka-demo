@@ -1,4 +1,4 @@
-package com.sushildangi;
+package com.lov4code;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
